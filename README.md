@@ -1,2 +1,2 @@
-# C
-C언어 학습
+# 23_summer
+summer vacation
